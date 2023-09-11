@@ -13,3 +13,6 @@ Here are the steps that I have tested:
 10. cloned fork as local copy on Poseidon
 11. Modify this file on original test_repo that is linked to SCOAR-WHOI
 12. commit newest changes and push to SCOAR-WHOI/test_repo on GitHub
+13. sync fork in personal account and pull changes to local copy of fork on Poseidon
+14. This line is added in the local copy of the fork on Poseidon
+15. commit and push latest changes to fork in personal account
