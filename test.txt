@@ -5,4 +5,7 @@ Here are the steps that I have tested:
  2. added this file and committed a few changes
  3. created GitHub repository on personal account
  4. pushed local repository to personal account
-
+ 5. transferred repository from personal account to SCOAR-WHOI organization
+ 6. updated URL of local repository on Poseidon: git remote set-url origin git@github.com:SCOAR-WHOI/test_repo.git
+ 7. git pull on local repository on Poseidon gives: "Already up to date."
+ 8. commit latest steps of test procedure and push to GitHub
