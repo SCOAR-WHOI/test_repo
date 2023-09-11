@@ -9,3 +9,7 @@ Here are the steps that I have tested:
  6. updated URL of local repository on Poseidon: git remote set-url origin git@github.com:SCOAR-WHOI/test_repo.git
  7. git pull on local repository on Poseidon gives: "Already up to date."
  8. commit latest steps of test procedure and push to GitHub
+ 9. forked test_repo from SCOAR-WHOI to personal account
+10. cloned fork as local copy on Poseidon
+11. Modify this file on original test_repo that is linked to SCOAR-WHOI
+12. commit newest changes and push to SCOAR-WHOI/test_repo on GitHub
