@@ -16,3 +16,7 @@ Here are the steps that I have tested:
 13. sync fork in personal account and pull changes to local copy of fork on Poseidon
 14. This line is added in the local copy of the fork on Poseidon
 15. commit and push latest changes to fork in personal account
+16. create and merge pull request to add changes in personal fork to SCOAR-WHOI
+17. pull latest changes to local copy of test_repo from SCOAR-WHOI on Poseidon
+18. sync fork in personal account and pull changes of fork
+19. commit and push latest changes from local copy on Poseidon to SCOAR-WHOI
