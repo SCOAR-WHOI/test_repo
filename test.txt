@@ -1,3 +1,8 @@
 This is a test repository to simulate the transfer of GitHub repository from a personal account to an organization.
 
-I am adding just another line to test additional commits.
+Here are the steps that I have tested:
+ 1. created and initialized local repository on Poseidon
+ 2. added this file and committed a few changes
+ 3. created GitHub repository on personal account
+ 4. pushed local repository to personal account
+
